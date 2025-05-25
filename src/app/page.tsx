@@ -9,7 +9,7 @@ export default function Home() {
         <meta name="description" content="CodeChemist & Hackathon Winner x1 Developer | Author | Entrepreneur Always exploring, always creating" />
         <meta name="robots" content="index, follow" />
         <meta property="og:title" content="Sayman Lal" />
-        <meta property="og:description" content="Author | Developer | Entrepreneur" />
+        <meta property="og:description" content="Developer | Author | Entrepreneur" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://worksofsayman.vercel.app/" />
         <meta property="og:image" content="https://worksofsayman.vercel.app/Sayman-Lal.jpg" />

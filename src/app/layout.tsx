@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Sayman Lal",
-    description: "Author | Developer | Entrepreneur",
+    description: "Developer | Author | Entrepreneur",
     url: "https://worksofsayman.vercel.app",
     type: "website",
     images: [
